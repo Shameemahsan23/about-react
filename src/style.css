@@ -1,0 +1,16 @@
+body{
+    background : indianred;
+    color: white;
+
+}
+button {
+    padding: 10px;
+    border: none;
+    border-radius: 5px;
+    color: wheat;
+    background-color: lime;
+    margin-right: 10px;
+    font-size: 2rem;
+    width: 80px;
+
+}
